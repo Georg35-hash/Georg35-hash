@@ -2,15 +2,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
 </div>
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋,+I+am+Heorhii+Vasyliev;+Developer+who+is+learning+somethings+new)](https://git.io/typing-svg)
-
+</div>
 ---
 
 ## 🔥 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=light&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Georg35-hash&show_icons=true&theme=light&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Georg35-hash&theme=light&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
