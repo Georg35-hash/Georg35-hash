@@ -15,7 +15,7 @@ I'm **Heorhii**, a developer always learning new things.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro100Dever&theme=tokyonight&hide_border=false" height="220" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Georg35-hash&theme=tokyonight&hide_border=false" height="220" alt="streak graph"/>
 </div>
 ---
 
