@@ -5,7 +5,7 @@
 
 # Hi there! 👋
 
-I'm **Heorhii**, a developer always learning new things. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Heorhii+Vasyliev;+Developer+who+is+learning+somethings+new)](https://git.io/typing-svg)
 
 ---
 
@@ -14,6 +14,7 @@ I'm **Heorhii**, a developer always learning new things.
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=light&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Georg35-hash&theme=tokyonight&hide_border=false" height="220" alt="streak graph"/>
 </div>
@@ -35,7 +36,6 @@ I'm **Heorhii**, a developer always learning new things.
 <div align="center">
   <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 
