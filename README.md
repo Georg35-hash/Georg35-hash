@@ -1,8 +1,9 @@
 ## Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋,+I+am+Heorhii+Vasyliev;+Developer+who+is+learning+somethings+new)](https://git.io/typing-svg)].
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋,+I+am+Heorhii+Vasyliev;+Developer+who+is+learning+somethings+new)](https://git.io/typing-svg)
+
 
 ---
 
