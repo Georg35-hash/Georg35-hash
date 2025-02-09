@@ -1,9 +1,7 @@
-## Hi there, i'm Heorhii 👋
+## Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
 </div>
-
-# Hi there! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋,+I+am+Heorhii+Vasyliev;+Developer+who+is+learning+somethings+new)](https://git.io/typing-svg)
 
@@ -22,7 +20,8 @@
 
 ## 🚀 Most Used Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=light&hide_border=true" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Georgiy&theme=light&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgiy&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ---
