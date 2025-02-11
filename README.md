@@ -3,9 +3,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
 </div>
 
+<div align="center">
+  
  <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋,+I+am+Heorhii+Vasyliev;+Welcome+to+My+Profile!;Passionate+about+programming+and+learning;Frontend+and+software+development;Always+exploring+new+technologies)](https://git.io/typing-svg).
 
+</div>
 
 
 ---
@@ -22,7 +25,7 @@
 
 ## 🚀 Most Used Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Georg35-hash&theme=light&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georg35-hash&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
@@ -30,6 +33,7 @@
 
 ## 🎯 My Focus:
 - 🔹 Frontend Development
+  
 
 ---
 
