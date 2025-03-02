@@ -45,9 +45,9 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kayes99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Georg35-hash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kayes99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Georg35-hash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
