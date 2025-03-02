@@ -43,4 +43,11 @@
   <a href="https://www.linkedin.com/in/heorhii-vasyliev-6a4957300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kayes99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kayes99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
