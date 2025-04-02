@@ -29,7 +29,42 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georg35-hash&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
+<h2 align="left">🛠 My tech stack:</h2>
 ---
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"   alt="redux"  width="40"  height="40"/>
+  <img width="12" />
+  <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/nodejs-ar21.svg" alt="docker" height="40"/> 
+  <img width="12" />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40" height="40" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  
+  <br>
+  <br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git" width="40" height="40" />
+  <img width="12" />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="40"  height="40"/>
+  <img width="12" />
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40" height="40"  />
+  <img width="12" />
+  <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/vite.svg" height="40" width="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img width="12" />
+   
+</div>
 
 ## 🎯 My Focus:
 - 🔹 Frontend Development
