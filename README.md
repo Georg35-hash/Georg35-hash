@@ -25,7 +25,6 @@
 
 ## 🚀 Most Used Languages:
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georg35-hash&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
@@ -47,7 +46,6 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <br>
   <br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img width="12" />
