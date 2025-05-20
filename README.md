@@ -63,7 +63,7 @@
 
 ## 🎯 My Focus:
 - 🔹 Frontend Development
-  
+- 🔹 Backend Development
 
 ---
 
